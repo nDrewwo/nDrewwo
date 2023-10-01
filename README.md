@@ -1,3 +1,5 @@
-# Chello
-* 🍜 Hi, I'm learning stuff
-* 👀 Curretnly Working on my web.
+# Hi, I'm nDrew
+ - Still learning things. 
+## Currently Working On
+ - [EugenPot](https://github.com/nDrewwo/EugenPot)
+ - [Personal Web](https://github.com/nDrewwo/nDrewwo.github.io)
