@@ -1,5 +1,5 @@
 # Hi, I'm nDrew
  - Still learning things. 
 ## Currently Working On
- - [Personal Web](https://github.com/nDrewwo/ndrew.sk)
- - [BYOCS](https://github.com/nDrewwo/BYOCS)
+ - [Quotes collection project](https://github.com/nDrewwo/quotes.ndrew.sk)
+ - [School lunch ordering system](https://github.com/nDrewwo/obedik.ndrew.sk)
