@@ -1,7 +1,5 @@
 # 💫 About Me:
-🎸 Currently working on a [School Cafeteria System](https://github.com/nDrewwo/obedik.ndrew.sk)📘 
-Currently learinig PCB design with the ESP32
-👾 Always learning stuff and having fun :3 
+🎸 Currently working on a [School Cafeteria System](https://github.com/nDrewwo/obedik.ndrew.sk)<br>📘 Currently learinig PCB design with the ESP32<br>👾 Always learning stuff and having fun :3 
 
 
 ## 🌐 Socials:
