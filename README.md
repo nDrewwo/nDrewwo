@@ -1,4 +1,4 @@
-# Hi I'm nDrew!:
+# Hi I'm nDrew!
 ---
 ## About me
 - I tinker around with stuff and pretend i know what I'm doing.
